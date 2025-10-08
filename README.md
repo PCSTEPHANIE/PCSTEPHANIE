@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá Comunidade do GitHub, me chamo Stephanie e espero poder compartilhar e aprender com vocês. 
 
 <!--
 **PCSTEPHANIE/PCSTEPHANIE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
